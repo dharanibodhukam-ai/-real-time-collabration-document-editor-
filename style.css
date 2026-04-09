@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: linear-gradient(135deg, #ff7e5f, #feb47b);
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background: rgba(0,0,0,0.6);
+  color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+
+textarea {
+  width: 80%;
+  height: 400px;
+  padding: 20px;
+  font-size: 18px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+}
